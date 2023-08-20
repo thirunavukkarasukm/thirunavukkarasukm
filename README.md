@@ -1,5 +1,5 @@
 - 👋 Hi, I’m thirunavukkarasukm
-- 👀 I’m interested in think differently to being anyone should wonder on me
+- 👀 I’m interested in think differently
 - 🌱 I’m currently learning about the machine learning and data analysis
 - 💞️ I’m looking to collaborate on company to work and  skilled up my knowledge 
 - 📫 How to reach me through mail-thirunavukkarasukm95@gmail.com
