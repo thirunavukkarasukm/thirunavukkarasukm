@@ -10,26 +10,28 @@
   Thirunavukkarasu KM, passionate machine learning engineer, building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges. I always push a lot off focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
 
 
+<details><summary><ins><em>My Core Values 💥</em></ins></summary>
+
 
 ✅ **Enthusiastic and Highly Passionate** engineer.
 
-✅ **Experience building complex and scalable applications**, online communities, SaaS and modern CMS from scratch.
+✅ **Project** I’m currently working with the machine learning project.
 
-✅ **Strong knowledge in design patterns** (GRASP, Factory, Strategy, Observer, DI, MVC, ADR, ...).
+✅ **Interested** Machine learning and data analysis.
+
+✅ **Knowledge in Programming languages** likes (PYTHON ,C, ...).
+
+✅ **Data Visualization and Analysis tools** likes (Powe BI, Chart, Excel,..).
 
 ✅ **Clean Code, DRY and SOLID principles** are a second nature to me.
 
 ✅ **Give lots of focus, perseverance, and knowledge** to accomplish as best I can a new project from scratch.
-
-✅ **Passion for writing secure, testable and scalable applications**, following the best coding practices.
 
 ✅ **Growth mindset**, I always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
 
 ✅ **Love sharing** knowledge and helping others.
 
 ✅ **As a lifelong learner, learning is my core value**. Developing new skills on a daily basis is essential to me.
-
-✅ **Working with Agile** methodologies such as Scrum and Kanban.
 
 </details>
 
@@ -62,7 +64,6 @@
 - 👋 Hi, I’m Thirunavukkarasu KM
 - 🌱 I’m currently working with the machine learning project
 - 
-- 👀 I’m interested in machine learning and data analysis
 - 💞️ I’m looking to collaborate on company to work and  skilled up my knowledge 
 - 📫 How to reach me through mail-thirunavukkarasukm95@gmail.com
 
