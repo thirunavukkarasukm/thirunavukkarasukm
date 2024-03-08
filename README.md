@@ -1,6 +1,7 @@
-- 👋 Hi, I’m thirunavukkarasukm
-- 👀 I’m interested in thinking differently
-- 🌱 I’m currently learning about the machine learning and data analysis
+- 👋 Hi, I’m Thirunavukkarasu KM
+- 🌱 I’m currently working with the machine learning project
+- 
+- 👀 I’m interested in machine learning and data analysis
 - 💞️ I’m looking to collaborate on company to work and  skilled up my knowledge 
 - 📫 How to reach me through mail-thirunavukkarasukm95@gmail.com
 
