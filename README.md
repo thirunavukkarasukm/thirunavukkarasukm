@@ -56,11 +56,9 @@
 
 </details>
 
-<details><summary><ins><em>What I'm doing? 💪</em></ins></summary>
-
-✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a> 🥳
-
-✔️ Writing interesting posts at <a href="https://pierrewriter.com">PierreWriter</a> 📝
+<details><summary><ins><em>What I'm doing? 💪</em></ins></summary> 
+  
+✔️ Writing interesting posts 
 
 ✔️ Drinking coffes/teas ☕️ and eating vegan healthy food 🥕
 
@@ -69,9 +67,6 @@
 ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
 
 </details>
-
-![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&include_all_commits=true)
-
 
 
 ### 👋 Let's Connect! 🤗
