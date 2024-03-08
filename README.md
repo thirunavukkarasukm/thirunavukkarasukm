@@ -10,28 +10,6 @@
   Thirunavukkarasu KM, passionate machine learning engineer, building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges. I always push a lot off focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
 </details>
 
-<details><summary><ins><em>Further about me? 🤔</em></ins></summary>
-  <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong> 🏁</p>
-  <p>
-    <img alt="Pierre-Henry Soria" src="https://avatars0.githubusercontent.com/u/1325411?s=200" />
-  </p>
-</details>
-
-<details><summary><ins><em>My Principle 🎂</em></ins></summary>
-  <em>🧠 Never Stop Learning &amp; Researching! 🚀</em>
-  
-  ```mermaid
-  journey
-    title 🌞 Daily Routine 🏆
-    section Breakfast
-      JavaScript: 5
-    section Lunch
-      React: 5
-    section Dinner
-      IntegrationTests: 5
-  ```
-</details>
-
 <details><summary><ins><em>My Core Values 💥</em></ins></summary>
 
 ✅ **Enthusiastic and Highly Passionate** engineer.
