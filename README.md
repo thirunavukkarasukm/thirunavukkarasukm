@@ -6,11 +6,11 @@
 
 #### 🏁 Happy Coding! 🤗
 
-<details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
+<details open ><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
   Thirunavukkarasu KM, passionate machine learning engineer, building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges. I always push a lot off focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
 
 
-<details><summary><ins><em>My Core Values 💥</em></ins></summary>
+<details open ><summary><ins><em>My Core Values 💥</em></ins></summary>
 
 
 ✅ **Enthusiastic and Highly Passionate** engineer.
@@ -35,7 +35,7 @@
 
 </details>
 
-<details><summary><ins><em>What I'm doing? 💪</em></ins></summary> 
+<details open><summary><ins><em>What I'm doing? 💪</em></ins></summary> 
   
 ✔️ Writing interesting posts 
 
