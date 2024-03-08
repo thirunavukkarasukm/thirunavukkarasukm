@@ -11,6 +11,20 @@
 </details>
 
 <details><summary><ins><em>My Core Values 💥</em></ins></summary>
+<details><summary><ins><em>My Principle 🎂</em></ins></summary>
+  <em>🧠 Never Stop Learning &amp; Researching! 🚀</em>
+  
+  ```mermaid
+  journey
+    title 🌞 Daily Routine 🏆
+    section Breakfast
+      JavaScript: 5
+    section Lunch
+      React: 5
+    section Dinner
+      IntegrationTests: 5
+  ```
+</details>
 
 ✅ **Enthusiastic and Highly Passionate** engineer.
 
