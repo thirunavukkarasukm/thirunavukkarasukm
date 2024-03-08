@@ -60,13 +60,8 @@
 
 <!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
-[twitter-url]: https://twitter.com/phenrysay
+[twitter-url]: https://twiter.com/phenrysay
 
-- 👋 Hi, I’m Thirunavukkarasu KM
-- 🌱 I’m currently working with the machine learning project
-- 
-- 💞️ I’m looking to collaborate on company to work and  skilled up my knowledge 
-- 📫 How to reach me through mail-thirunavukkarasukm95@gmail.com
 
 <!---
 thirunavukkarasukm/thirunavukkarasukm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
