@@ -53,14 +53,14 @@
 [<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin-url]
 [<img align="left" alt="Follow Me on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter-url]
 [<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/devdotto.svg" />][dev-url]
-[<img align="left" alt="My Gmail" width="22px"/>][Gmail-url]
+[<img align="left" alt="My Gmail" width="22px" src = "thirunavukkarasukm95@mail.com
+ "/>][Gmail-url]
 [<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][author-url]
 
 
 <!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
 [twitter-url]: https://twitter.com/phenrysay
-[g mail] : thirunavukkarasukm95@mail.com
 
 - 👋 Hi, I’m Thirunavukkarasu KM
 - 🌱 I’m currently working with the machine learning project
