@@ -52,17 +52,14 @@
 
 [<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin-url]
 [<img align="left" alt="Follow Me on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter-url]
-
+[<img align="left" alt="Email Me" width="22px" src="https://cdn-icons-png.flaticon.com/512/893/893230.png" />][email-url]
 
 <!-- GitHub's Markdown reference links -->
-[linkedin-url]:[ https://www.linkedin.com/in/ph7enry/](https://www.linkedin.com/in/thirunavukkarasu-km-113416269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[twitter-url]: https://twiter.com/phenrysay 
+[linkedin-url]: https://www.linkedin.com/in/thirunavukkarasu-km-113416269/
+[twitter-url]: https://twitter.com/Thiruna56297612
+[email-url]: mailto:thirunavukkarasukm95@gmail.com
+
+**CONTACT ME** through thirunavukkarasukm95@gmail.com
 
 
-**CONTACT ME** throught thirunavukkarasukm95@gmail.com
-
-
-<!---
-thirunavukkarasukm/thirunavukkarasukm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
