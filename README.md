@@ -21,9 +21,7 @@
 
 ✅ **Knowledge in Programming languages** likes (PYTHON ,C, ...).
 
-✅ **Data Visualization and Analysis tools** likes (Powe BI, Chart, Excel,..).
-
-✅ **Clean Code, DRY and SOLID principles** are a second nature to me.
+✅ **Data Visualization and Analysis tools** likes (Power BI, Chart, Excel,..).
 
 ✅ **Give lots of focus, perseverance, and knowledge** to accomplish as best I can a new project from scratch.
 
