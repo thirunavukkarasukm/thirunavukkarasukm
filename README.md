@@ -17,7 +17,7 @@
 
 ✅ **Project** I’m currently working with the machine learning project.
 
-✅ **Interested** Machine learning and data analysis.
+✅ **Interested** in Machine learning and data analysis.
 
 ✅ **Knowledge in Programming languages** likes (PYTHON ,C, ...).
 
@@ -27,9 +27,9 @@
 
 ✅ **Growth mindset**, I always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
 
-✅ **Love sharing** knowledge and helping others.
-
 ✅ **As a lifelong learner, learning is my core value**. Developing new skills on a daily basis is essential to me.
+
+✅ I am looking to collaborate on interesting projects where i can add value
 
 </details>
 
